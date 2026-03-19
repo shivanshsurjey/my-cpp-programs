@@ -13,3 +13,4 @@ using namespace std;
       cout<<"Avg of threee subjects is: "<<(n+m+o)/3;
       return 0;
  }
+
